@@ -46,7 +46,7 @@ Subject to the terms and conditions of this License, Licensor hereby grants to Y
 
 Except as otherwise agreed by Licensor in writing in separate license terms and conditions for the use of THEOplayer, You shall not distribute, relicense, sell, lease, transfer, encumber, assign or make available for public use the Data Products. Any attempt to take any such actions is void and will automatically terminate Your rights under this License.
 
-In your documentation to your customers you shall make direct reference to this License when using the Data Product for the Purpose under this License.
+In your documentation to your customers or any other form or redistribution, you shall make direct reference to this License when using the Data Product for the Purpose under this License, in particular you need to indicate the copyright notice such as “Copyright (c) 2020, THEO Technologies NV”. 
 
 If the Data Product or your Use (allegedly) constitutes a direct or contributory infringement, then any
 
